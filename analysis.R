@@ -1,5 +1,5 @@
 # PROJECT: Russian Equipment Loss Analysis (Tanks Vs. Drones)
-# AUTHOR: Temuulen Ivanov-Munkhgerel
+# AUTHOR: Temuulen Munkhgerel
 # DATE: December, 2025
 # PURPOSE: Cleans raw daily cumulative data into monthly aggregated differentials for trend visualisation.
 
